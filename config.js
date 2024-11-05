@@ -330,6 +330,14 @@ const colors = [
 
 const projects = [
   {
+    title: 'Quranst Website',
+    url: 'https://quranst.com/',
+    tools: ['WordPress'],
+    icon: 'fa-wordpress',
+    year: '2024',
+    show: true,
+    description: 'Website for Quranst Institute',
+  }, {
     title: 'Diwan Academy Website',
     url: 'https://diwanacademy.net/',
     tools: ['WordPress'],
@@ -337,7 +345,9 @@ const projects = [
     year: '2024',
     show: true,
     description: 'Website for diwan academy',
-  }, {
+  },
+
+  {
     title: 'Alawal Academy Website',
     url: 'https://alawalacademy.com/',
     tools: ['WordPress'],
